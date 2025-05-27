@@ -1,0 +1,101 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    background-color: mintcream;
+}
+
+h1, h2, h3 {
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    color: #2c3e50;
+}
+
+
+#introduction h1 {
+    text-align: center;
+    font-size: 3em;
+    color: darkblue;
+    text-shadow: 1px 1px 2px #ddd;
+    margin-top: 20px;
+}
+
+p {
+    line-height: 1.8;
+    font-size: 16px;
+    margin: 10px 0;
+    color: #555;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 71%;
+    border-radius: 20px;
+    margin-bottom: -7px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+
+#iconicplaces h2 {
+    text-align: center;
+    font-size: 2em;
+    margin-top: 30px;
+    color: #2980b9;
+}
+
+#iconicplaces p {
+    text-align: center;
+    font-size: 15px;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+#iconicplaces img {
+    float: left;
+    margin: 1em;
+    display: block;
+    width: 39%;
+    height: 20em;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+#iconicplaces ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+#iconicplaces li {
+    margin-bottom: 14px;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #444;
+}
+
+#timesquare h2,
+#centralpark h2,
+#statue h2,
+#statue h3 {
+    text-align: center;
+    font-size: 1.9em;
+    color: #27ae60;
+    margin-top: 25px;
+}
+
+#timesquare img,
+#centralpark img,
+#statue img {
+    float: right;
+    margin: 2em;
+    display: block;
+    width: 39%;
+    height: 15em;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+#statue li{
+    margin-bottom: 14px;
+}
+
